@@ -7,7 +7,8 @@ public class AppiumTest {
 	@Test
 	public void postJira()
 	{
-		System.out.println();
+		System.out.println("Add print statement");
+		System.out.pritln("Learning git commands");
 	}
 	
 	
