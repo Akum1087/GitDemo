@@ -8,6 +8,8 @@ public class RestApiTest {
 	public void nativeAppAndroid()
 	{
 		System.out.println("nativeAppAndroid");
+		System.out.println("After udpate");
+		System.out.println("Learning GIT");
 	}
 	
 	@Test
