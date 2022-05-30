@@ -12,6 +12,15 @@ public class RestApiTest {
 		System.out.println("Learning GIT");
 	}
 	
+	
+	@Test
+	public void nativeAppAndroidsxs()
+	{
+		System.out.println("nativeAppAndroid");
+		System.out.println("After udpate");
+		System.out.println("Learning GIT");
+	}
+	
 	@Test
 	public void IOSApp()
 	{
